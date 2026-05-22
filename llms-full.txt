@@ -1,0 +1,51 @@
+# Geotechnicalengineering — Clarington
+
+> Geotechnical engineering services in Clarington, Canada.
+
+## Services
+- [Anchors](https://clarington.geotechnicalengineering.co/anchors/)
+- [Atterberg Limits](https://clarington.geotechnicalengineering.co/atterberg-limits/)
+- [Cbr Road](https://clarington.geotechnicalengineering.co/cbr-road/)
+- [Cpt Test](https://clarington.geotechnicalengineering.co/cpt-test/)
+- [Deep Excavations](https://clarington.geotechnicalengineering.co/deep-excavations/)
+- [Excavation Monitoring](https://clarington.geotechnicalengineering.co/excavation-monitoring/)
+- [Excavations](https://clarington.geotechnicalengineering.co/excavations/)
+- [Flexible Pavement](https://clarington.geotechnicalengineering.co/flexible-pavement/)
+- [Footings](https://clarington.geotechnicalengineering.co/footings/)
+- [Foundations](https://clarington.geotechnicalengineering.co/foundations/)
+- [Grain Size](https://clarington.geotechnicalengineering.co/grain-size/)
+- [Ground Improvement](https://clarington.geotechnicalengineering.co/ground-improvement/)
+- [Grouting](https://clarington.geotechnicalengineering.co/grouting/)
+- [In Situ Permeability](https://clarington.geotechnicalengineering.co/in-situ-permeability/)
+- [Investigation](https://clarington.geotechnicalengineering.co/investigation/)
+- [Lab In Situ](https://clarington.geotechnicalengineering.co/lab-in-situ/)
+- [Laboratory](https://clarington.geotechnicalengineering.co/laboratory/)
+- [Liquefaction](https://clarington.geotechnicalengineering.co/liquefaction/)
+- [Masw](https://clarington.geotechnicalengineering.co/masw/)
+- [Mat Foundations](https://clarington.geotechnicalengineering.co/mat-foundations/)
+- [Piles](https://clarington.geotechnicalengineering.co/piles/)
+- [Proctor Tests](https://clarington.geotechnicalengineering.co/proctor-tests/)
+- [Resistivity](https://clarington.geotechnicalengineering.co/resistivity/)
+- [Retaining Walls](https://clarington.geotechnicalengineering.co/retaining-walls/)
+- [Rigid Pavement](https://clarington.geotechnicalengineering.co/rigid-pavement/)
+- [Road Geotechnics](https://clarington.geotechnicalengineering.co/road-geotechnics/)
+- [Sand Cone Density](https://clarington.geotechnicalengineering.co/sand-cone-density/)
+- [Seismic](https://clarington.geotechnicalengineering.co/seismic/)
+- [Seismic Isolation](https://clarington.geotechnicalengineering.co/seismic-isolation/)
+- [Seismic Microzonation](https://clarington.geotechnicalengineering.co/seismic-microzonation/)
+- [Seismic Refraction](https://clarington.geotechnicalengineering.co/seismic-refraction/)
+- [Slope Stability](https://clarington.geotechnicalengineering.co/slope-stability/)
+- [Slopes](https://clarington.geotechnicalengineering.co/slopes/)
+- [Soft Ground Tunnels](https://clarington.geotechnicalengineering.co/soft-ground-tunnels/)
+- [Spt Drilling](https://clarington.geotechnicalengineering.co/spt-drilling/)
+- [Stone Columns](https://clarington.geotechnicalengineering.co/stone-columns/)
+- [Test Pits](https://clarington.geotechnicalengineering.co/test-pits/)
+- [Triaxial](https://clarington.geotechnicalengineering.co/triaxial/)
+- [Vibrocompaction](https://clarington.geotechnicalengineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://clarington.geotechnicalengineering.co/
+
+## About
+This site provides geotechnical engineering services in Clarington, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
